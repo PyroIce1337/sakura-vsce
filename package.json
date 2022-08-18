@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.70.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PyroIce1337/sakura-vsce"
+  },
   "categories": [
     "Themes"
   ],
