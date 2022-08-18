@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/PyroIce1337/sakura-vsce"
   },
+  "publisher": "pyroice1337",
   "categories": [
     "Themes"
   ],
